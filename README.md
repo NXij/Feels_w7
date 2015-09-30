@@ -8,4 +8,7 @@ feels.theme goes into AppData/Local/Microsoft/Windows/Themes
 
 Recommended to use with 7+ Taskbar Tweaker.
 
+Additional: Custom tiling grids for GridMove;
+			Titlebar hider AHK script.
+
 ![](screen.jpg)
