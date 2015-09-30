@@ -6,4 +6,6 @@ SlanXP2 goes into %windir%/Resources/Themes
 
 feels.theme goes into AppData/Local/Microsoft/Windows/Themes
 
+Recommended to use with 7+ Taskbar Tweaker.
+
 ![](screen.jpg)
